@@ -1,0 +1,4 @@
+https://www.geeksforgeeks.org/how-to-randomly-select-rows-from-pandas-dataframe/
+https://stackoverflow.com/questions/9758450/pandas-convert-dataframe-to-array-of-tuples
+https://stackoverflow.com/questions/44546086/remove-one-dataframe-from-another-with-pandas
+https://stackoverflow.com/questions/37891954/keras-how-do-i-predict-after-i-trained-a-model
